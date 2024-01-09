@@ -1,0 +1,1 @@
+Small froglike copies of [[Bavlorna Blightstraw|Bavlorna]], a type of [[Quickling]]

@@ -1,0 +1,1 @@
+A portal to the [[Elemental Plane of Air]] opened in the [[Vault of Thorns]] when [[Trinica]] and the [[Rungs Against the Seven]] 

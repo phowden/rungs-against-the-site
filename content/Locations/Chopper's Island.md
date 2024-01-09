@@ -1,0 +1,1 @@
+Island off the shore near [[Sandpoint]], the location where the serial killer [[Chopper]] was found with his victims.

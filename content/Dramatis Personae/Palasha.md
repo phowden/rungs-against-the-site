@@ -1,0 +1,1 @@
+A mermaid singer working for the [[Witchlight Carnival]]. In love with [[Candlefoot]].

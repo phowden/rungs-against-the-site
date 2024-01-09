@@ -1,0 +1,1 @@
+A serial killer, [[Chopper]], terrorized [[Sandpoint]] shortly before the exploits of the campaign.

@@ -1,0 +1,1 @@
+Mountains where [[Baba Yaga]] created the gigantic mountainside statue of the [[Maiden, Mother, Crone]] at [[Atrosa]].

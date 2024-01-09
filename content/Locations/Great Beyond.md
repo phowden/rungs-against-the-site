@@ -1,0 +1,1 @@
+Encompasses all planes of existence that make up the [[Multiverse]].

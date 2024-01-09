@@ -1,0 +1,1 @@
+The god of enlightenment, self-perfection, knowledge, healing, and inner strength. His followers claim that he was once a mortal who achieved absolute physical and mental perfection and thus attained divinity of his own volition

@@ -1,0 +1,1 @@
+Current king (gender neutral term) of [[Halgrim]]

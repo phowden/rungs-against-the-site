@@ -1,0 +1,1 @@
+Deity that gave [[Mina]] her powers

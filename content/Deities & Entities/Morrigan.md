@@ -1,0 +1,1 @@
+Goddess of war, worshipped in ancient [[Forfar]]

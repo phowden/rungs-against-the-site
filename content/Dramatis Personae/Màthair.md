@@ -1,0 +1,1 @@
+A reference to [[Isolt ApBlanc]] found in the [[Journal of Bragain ApBlanc]]

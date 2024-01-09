@@ -1,0 +1,1 @@
+Inn owned by [[Ameiko]] in [[Sandpoint]]

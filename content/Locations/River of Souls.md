@@ -1,0 +1,1 @@
+The path souls take from the universe through to the [[Boneyard]] where they are to be judged by [[Pharasma]]

@@ -1,0 +1,1 @@
+Elf warrior, friend of [[Ameiko]]. Defends [[Sandpoint]] and travels through [[Varisia]].

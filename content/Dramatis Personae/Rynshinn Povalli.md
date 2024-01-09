@@ -1,0 +1,1 @@
+Half-elf owner of the clothes shop *Vernah's Fine Clothing* in [[Sandpoint]]

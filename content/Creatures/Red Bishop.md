@@ -1,0 +1,1 @@
+Mysterious figure, ordered the kidnapping of the [[Goldtide Family]]

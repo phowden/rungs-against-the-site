@@ -1,0 +1,1 @@
+Large magical hourglass possesed by the [[Steward of Stethalos]]

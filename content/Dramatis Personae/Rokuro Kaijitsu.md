@@ -1,0 +1,1 @@
+Father of [[Lonjiku Kaijitsu]], grandfather of [[Ameiko]]

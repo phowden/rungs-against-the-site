@@ -1,0 +1,1 @@
+Land ruled by the emperor of the [[Jade Throne]]. Located in [[Tian Xia]]

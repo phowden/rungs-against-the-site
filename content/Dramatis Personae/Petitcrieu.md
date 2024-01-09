@@ -1,0 +1,1 @@
+Dog of [[Gilan ApBlanc]] [[ApBlanc]], was eaten by wolves in [[Castle ApBlanc]]. [[Gilan ApBlanc]] died trying to save him
