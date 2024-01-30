@@ -5,3 +5,6 @@ aliases:
 
 The [[Runelord]] of Greed.
 
+Signature weapon is a glaive.
+
+

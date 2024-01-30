@@ -1,0 +1,1 @@
+Horse ordered by [[Titus Scarnetti]], rescued from the [[Thistletop]] stables after being stolen and abused by the [[Thistletop Tribe|Thistletop Goblins]].
