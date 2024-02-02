@@ -1,3 +1,4 @@
+One of three prophecies found in the hut of [[Bavlorna Blightstraw]], in [[Hither]]. Alongside [[Chalmymokos' Conundrum]] and [[Sazzleru's Spark]].
 # Text
 > [!quote]
 > Decided will be the fate of the land
@@ -24,8 +25,8 @@
 > A ring both foreign and familiar, to be destroyed
 > Before victory can be won and peace be enjoyed.
 
-# Summary
-The fate of the land will be decided when 7 signs are shown.
+# Summary?
+The fate of the land will be decided when 7 signs are shown. (Are the following 7 signs?)
 
 Some descendent of the wizard Zinlun (or Zinlun themselves) will survive [[Earthfall]] through necromancy.
 
@@ -60,8 +61,11 @@ Somewhere in [[Iblydos]] ([[Aelyosos]]?) the "heir" will gain the "Aspect TriFol
 	- First domain
 	- Those which are bound
 	- Land forlorn
+		- Forlorn? [[Forfar]]?
+		- Forlorn elves?
 	- Maker's vale
 	- Melaenis' followers
 	- Tower
 	- Wyrms
+		- [[W_rm|Worm]]? [[W_rm|Wyrm]]? [[W_rm]]?
 	- Ring both foreign and familiar

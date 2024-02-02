@@ -1,4 +1,4 @@
-Home base of the [[Rungs Against the Seven]] 
+Home base of the [[Rungs Against the Seven]] where they all met.
 
 A coastal town in [[Varisia]].
 

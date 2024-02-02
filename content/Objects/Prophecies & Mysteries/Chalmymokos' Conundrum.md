@@ -1,4 +1,4 @@
-One of three prophecies found in the bedroom of [[Bavlorna Blightstraw]] in [[Hither]].
+One of three prophecies found in the hut of [[Bavlorna Blightstraw]], in [[Hither]]. Alongside [[Sazzleru's Spark]] and [[Lotus' Lament]]
 
 # Text
 > [!quote]
@@ -20,10 +20,7 @@ One of three prophecies found in the bedroom of [[Bavlorna Blightstraw]] in [[Hi
 > 
 > To the three-note-key its doors will swing open,
 > The path behind three-eyed-brothers sloping,
-> Past guardian long dead
-> the desired key rest its head.
-
-
+> Past guardian long dead the desired key rest its head.
 # Analysis
 - Proper Nouns?
 	- The Cage
@@ -32,11 +29,17 @@ One of three prophecies found in the bedroom of [[Bavlorna Blightstraw]] in [[Hi
 	- Ghoral-Rey
 - Things to Identify
 	- The Cage
-	- Heroes of the Fallen Head
-	- Effigy of masters past
+		- Cage, past rage - [[Alaznist|Runelord of Wrath]]? [[Alaznist]]?
+		- *Was the author trapped in a cage related to [[Wrath]]?*
+	- Heroes of the Fallen Head, Effigy of masters past
+		- Some known landmark? Giant statue head?
 	- Key
+		- The heroes need a key - [[W_rm|Worm]]/[[Rungs Against the Seven|RATS]] need a key? [[Portal]] related?
 	- Escape of the drunken kind
+		- Is the *escape* drunken?
+		- Or is the *one that escapes* drunken?
 	- Feathered collector, just changed gender
+		- [[Feathered Serpent]]? [[Vorvashali Voon]]??
 	- Journey
 	- Sea Banshee's Seat
 	- Sister's rest
