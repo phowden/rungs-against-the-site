@@ -1,3 +1,9 @@
+---
+aliases:
+  - Skabatha
+---
+
+
 Member of the [[Hourglass Coven]]
 
 The [[Rungs Against the Seven]] found a letter from her to [[Bavlorna Blightstraw]] in [[Hither]].

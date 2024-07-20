@@ -1,0 +1,3 @@
+- Undeads arisen from creatures that fell to madness and took their own lives
+- Stuck between life and death
+- They cannot escape their madness

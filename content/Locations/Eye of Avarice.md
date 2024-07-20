@@ -7,10 +7,12 @@ Seat of power of the [[Runelord]] of Greed, [[Karzoug]]
 		- but for unknown reasons as of [[2023-10-Oct-21]]
 
 # Notes of [[Mersoolian Threce]]
-[[Mersoolian Threce]] left behind a sketch of the tower, with notes of him trying to figure out the details of the sketch. This is just a tax collection location - UPDATE THIS PAGE!!!
+[[Mersoolian Threce]] left behind a sketch of the tower, with notes of him trying to figure out the details of the sketch. 
 
 - "By [[Nethys]], is this really all I can glean of where that Tear of Tiamat is?"
+	- Reference to an [[Orbs of Dragonkind|Orb of Dragonkind]]
 - "It seems as if a veil is shielding it"
+	- Possible that [[Serpent Empire]]
 - "Does that shape look familiar after all?"
 - "Maybe I didn't get the _Scrying_ spell right after all. As much as it is above my other magic"
 - "Or maybe the orb has been moved and I am only seeing the destination of this local _Teleport_"

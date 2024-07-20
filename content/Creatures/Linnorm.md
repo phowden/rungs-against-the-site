@@ -1,0 +1,1 @@
+Wingless [[Dragon|Dragons]] with long serpentine bodies. Greatly feared and respected by those in the [[Lands of the Linnorm Kings]]

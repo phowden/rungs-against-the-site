@@ -6,16 +6,17 @@ aliases:
 ---
 Member of the [[Rungs Against the Seven]], [[Witch|Cartomancer]] [[Witch]] sugar baby to [[Shyka, the Many]].
 
-# Changes from Journey to the [[First World]]
+# Changes from Adventures
+## Journey to the [[First World]]
 ### See-Through Eyes
 Traded [[Trinket, Bauble, and Charm]] his "eye color" which caused the iris of his eyes to become transparent. In exchange [[W_rm]] received the "Very Good Thimble" (fingertip not included) to keep.
-## Hunger & Thirst
+### Hunger & Thirst
 Traded [[Trinket, Bauble, and Charm]] his eye color, and gained immunity to taste cravings (food/drink based compulsion) by giving away his memory of his favorite food. 
 - Manifests as being completely unable to predict/manage hunger or thirst
 	- Thirsty all the time, but can't explain the phenomena
 	- Losing weight, has to be told to eat/drink
 	- Doesn't care about drinking booze
-## Drawings from a [[Deck of Many Things]]
+### Drawings from a [[Deck of Many Things]]
 Drew three cards from a [[Deck of Many Things]] ([[Harrow Deck|Harrow Cards]]) with [[Bauble]]:
 - **Talons**: all magical items disappear
 - **Fates**: avoid any situation, once
@@ -24,7 +25,14 @@ Used the **Fates** card to trade items with his past self, using *Ally Across Ti
 - The `lawful neutral` change manifests in an obsession with the ordering of the "cosmic deck"
 	- His [[Harrow Deck]] is always in the order he needs, no more shuffling
 	- He's pursuing research into topics that will give him insight into the ordering
+## Cursed on [[Nal Kashel]]
+On [[Nal Kashel]] the malfunctioning [[Azlanti]] magic (and influence of the [[Aboleth]]?) cursed [[W_rm|Worm]]: skin is clammy and moist and covered in a slimy mucous coating, oily sweat, dries out and cracks painfully unless submerged daily.
 
+Stage 1: Skin becomes clammy and moist, with oily sweat
+Stage 2: Skin develops coating of slimy mucous
+	(+2 on Escape Artists Check and CMD to resist grapple)
+Stage 3: Skin must be kept wet, or it cracks painfully
+	(-2 penaly to Cha, must submerge yourself in water at least once per day, if skin dries out you are staggered until immersed in water
 ## [[Empyreal Lord|Empyreal]] Powers
 > [!quote]
 > You feel a surge of power flowing through you as [[Shyka, the Many|Shyka]] extends their benevolent consciousness to you.  
