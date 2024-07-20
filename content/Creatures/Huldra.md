@@ -15,3 +15,5 @@ Recently, [[Rotta of Gungnir]] has found evidence that this tale of [[Troll Witc
 [[Rotta of Gungnir]] is searching for a way to reverse the rituals she believes were used by the [[Serpent Empire]] to create the [[Huldra]]. The ritual separates [[Dryad|Dryads]] from nature & trees. 
 
 She hopes that in reversing the ritual she can cure the [[Huldra]] of their "temporary condition."
+
+The cure possibly resides on the island of [[Lilywhite]].
