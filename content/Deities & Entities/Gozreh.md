@@ -1,1 +1,0 @@
-Dualistic of natury & balance, commonly chosen as the representation by [[Druid]] orders.

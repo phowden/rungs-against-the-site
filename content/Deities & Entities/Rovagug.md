@@ -1,1 +1,0 @@
-One of the original deities born when [[Pharasma]] willed existence into being. Either was born from the gnawing, devouring fear she felt stepping off [[The Seal]] or [[Rovagug]] **was** the devouring fear.

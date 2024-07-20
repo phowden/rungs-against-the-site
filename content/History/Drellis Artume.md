@@ -1,0 +1,1 @@
+[[Andoran]] noble who fled to the [[River Kingdoms]] and formed the kingdom of [[Artume]]

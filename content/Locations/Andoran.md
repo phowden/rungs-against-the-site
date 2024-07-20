@@ -1,0 +1,1 @@
+Neighbor nation to [[Cheliax]]

@@ -39,7 +39,7 @@ The [[Vision Quest]] that the [[Rungs Against the Seven]] went on in the meditat
 	- Transforms to a citadel, chained in a volcano
 ## [[Trinica]]
 - [[Empyreal Lord]]
-	- Ylimancha, The Harborwing
+	- [[Ylimancha]], The Harborwing
 - Battle between osprey-headed woman and Pazuzu
 	- They turn into books and fly away
 	- Follow and pass [[Sandpoint]]
@@ -141,7 +141,7 @@ Eventually the castle-mania settles on this aerial view of a familiar looking ca
 
 ![Image](https://lh7-us.googleusercontent.com/E5eSF1hVHXClbIC2150aILHBvJKP74uSZkfJgQLkdKVdkRvfUDXxwo3LMoX28mExZkQkf-V2ZjLLo-_58cMNEez7JlXV_WoRGFyzrI4-faKFxHC5HM44uXqSLKZyoNASIKnMDBAYD5458KqmGpPPfA)
 
-Wurms vision and with the following image, which he recognizes as a depiction of [[Shyka, The Many]], an [[Eldest]]. She appears to be crying, which is unusual. She is being held against her will.
+Wurms vision and with the following image, which he recognizes as a depiction of [[Shyka, the Many]], an [[Eldest]]. She appears to be crying, which is unusual. She is being held against her will.
 
 ![Image](https://lh7-us.googleusercontent.com/2--NBRkotl5ncFk2CopMx8JwTTRPYckv-oDfI-4tO0iLH4wMMHkAFFUzeNqBZpbnGVhjIFF9F1CGZ38KkIWiTodpiV81Pw6IxnSWDrmzckOMkAoNlOIGVdKTohfbGT93odEAixIx9ZqMwbFG0eR_2g)
 

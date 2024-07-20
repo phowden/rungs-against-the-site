@@ -1,0 +1,1 @@
+The hall of glory where #ulfen heroes go when they die.

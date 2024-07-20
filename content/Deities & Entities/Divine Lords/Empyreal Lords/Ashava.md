@@ -1,0 +1,7 @@
+---
+aliases:
+  - Ashavan
+---
+
+
+Deity that gave [[Mina]] her powers, an [[Empyreal Lord]]. Worship often involves forms of dance, and she is concerned with guiding recently departed souls along the [[River of Souls]].

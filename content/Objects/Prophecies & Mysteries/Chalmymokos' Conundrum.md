@@ -21,9 +21,74 @@ One of three prophecies found in the hut of [[Bavlorna Blightstraw]], in [[Hithe
 > To the three-note-key its doors will swing open,
 > The path behind three-eyed-brothers sloping,
 > Past guardian long dead the desired key rest its head.
+# Summary
+Written by a [[Cyclops]] named [[Chalmymokos]], it outlines what the [[Rungs Against the Seven]] will have to do to survive. [[Chalmymokos]] wrote this knowing they would find this only after he died.
+
+The first event references the [[Rum Punch Festival]], held in [[The Shackles]] on the island of [[Lilywhite]].
+
+> [!note]
+> There is a gap in understanding in the reference to the "feathered collector" that most likely requires more context only available on [[Lilywhite]].
+
+Next it goes on to reference a journey the [[Rungs Against the Seven]] must take. The path begins by passing the island [[Besmara's Throne]]. Then there are two steps that are yet unidentified: "[[Sister's Rest]]" and a temple dedicated to [[Gozreh]] (that was previously dedicated to [[Abadar]]). The journey ends at a ruined lighthouse: [[Ghoral-Rey]].
+
+At this ruined lighthouse there will be a door that requires music to open, but that is all that's known for now. The rest most likely requires more context from [[Ghoral-Rey]].
 # Analysis
+## Group
+- "Chalmymokos" is likely the name of a [[Cyclops]]
+- CAGE
+	- [[Golarion]] is an ancient elven word for cage
+		- Elves came to [[Golarion]] and heard a story that humans prayed to deities and they were described as simialr to humans but had concepts and domains
+		- Several gods teamed up to defeat a world destroying god called [[Rovagug]]
+		- they put him in a prison and buried him deep in [[Golarion]]
+		- all the lawful and good gods
+			- [[Asmodeus]], [[Abadar]], [[Sarenrae]], [[Calistria]], [[Torag]], [[Desna]], [[Pharasma]], [[Gorum]]
+		- there's a scar somewhere left in [[Golarion]]
+			- The followers of [[Sarenrae]] didn't follow her orders and ended up building the city of [[Gormuz]] over the site
+- PASSED
+	- Passed == Died?
+	- Remembering we found [[Cyclops]] rope in [[Bavlorna Blightstraw|Bavlorna]]'s stuff
+	- Could the author have known he would died, and only AFTER would we get this?
+- HEROS of the FALLEN HEAD, EFFIGY of MASTERS PAST
+	- [[Thistletop]] is the head of [[Karzoug]], we are the heroes!
+- ALIVE, KEY, ETC
+	- That's us
+- INNOCENCE, EMPIRE OF OLD, DRUNK FESTIVAL
+	- [[Lilywhite|Innocence]] == town in [[The Shackles]]
+	- Drunken Festival == [[Rum Punch Festival]]
+		- People in [[Halgrim]] were talking about it
+		- Commemorates the massive escape of slaves from a [[Cheliax]] slaveship
+	- Empire of Old == [[Ghol-Gan]], [[Cyclops]] empire
+	- [[Mina]] making connection to [[Red Bishop]] also
+- FEATHERED COLLECTOR
+	- Clue in lillywhite?
+- SEA BANSHEES SEAT
+	- [[Besmara]]: Pirate Queen, Goddess of Pirates, Goddess of the Sea
+	- Island in [[The Shackles]]: [[Besmara's Throne]]
+- SISTERS REST
+	- No clues yet
+- HOUSE OF LOST KEY, LEAF BLESSED
+	- House == noble house, heraldic symbol
+	- [[Gozreh]]'s symbol is a leaf!
+	- [[Abadar]]'s is a key!
+	- [[Abadar]] --> [[Gozreh]]
+	- Temple dedicated to [[Abadar]] that was turned into a temple to [[Gozreh]]
+- BLINDED EYE, GHORAL-REY
+	- [[Ghoral-Rey]]: looks like [[Cyclops]] word
+		- Somewhere in the shackles, there's a lighthouse temple complex of the [[Ghol-Gan]] empire
+		- Was called "The Eye of [[Ghoral-Rey]]"
+	- Eye == flame/light of the lighthouse
+	- Blinded eye == no longer working lighthouse
+- THREE-NOTE-KEY, DOOR OPEN
+	- Open a door, it needs music to open
+	- Will figure it out closer
+- PATH, THREE-EYED-BROTHER
+	- Path, three eyed brother, straightforward
+	- Will figure out closer
+- KEY, REST HEAD
+	- Person?
+## Solo
 - Proper Nouns?
-	- The Cage
+	- The Cage?
 	- Heroes of the Fallen Head
 	- Sea Banshee's Seat
 	- Ghoral-Rey

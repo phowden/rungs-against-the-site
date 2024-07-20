@@ -1,1 +1,0 @@
-Local wise-woman from [[Sandpoint]] and friend to the [[Rungs Against the Seven]], especially [[Lotus]]

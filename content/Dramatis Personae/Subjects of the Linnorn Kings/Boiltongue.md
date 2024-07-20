@@ -1,0 +1,1 @@
+[[Linnorm]] of the [[White Estrid]]. Encountered in [[Halgrim]].

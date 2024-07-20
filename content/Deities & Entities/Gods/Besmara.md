@@ -1,0 +1,1 @@
+Goddess of Pirates, Goddess of the Sea, Pirate Queen

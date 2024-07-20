@@ -1,3 +1,8 @@
+---
+aliases:
+  - Cyclopes
+---
+
 Can see the future!
 
 Created [[Petroglyphs]] to warn of the danger of the [[Hourglass Coven]] returning in [[Windsong Abbey]] and [[Halgrim]].

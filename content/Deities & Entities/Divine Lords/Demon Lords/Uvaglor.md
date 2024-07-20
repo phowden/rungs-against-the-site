@@ -1,0 +1,1 @@
+Unholy demon child of [[Pazuzu]] and [[Lamashtu]]. Defeated by [[Sazzleru]].

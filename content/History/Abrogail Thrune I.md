@@ -1,0 +1,1 @@
+A [[Cheliax|Chelaxian]] queen who sould her soul to [[Asmodeus]]. Was murdered (and succeeded) by her son [[Antoninus Thrune]].

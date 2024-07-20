@@ -1,0 +1,1 @@
+A [[Cheliax|Chelaxian]] king, succeeded his mother [[Abrogail Thrune I]] after murdering her.
