@@ -1,0 +1,1 @@
+Resident of [[Black Cove]], first person the [[Rungs Against the Seven|RATS]] encountered on [[Black Cove]].

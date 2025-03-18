@@ -1,0 +1,1 @@
+Resident of [[Sandpoint]] knowledgeable in [[Thassilon|Thassilonian]] lore.

@@ -1,0 +1,3 @@
+Deceased cleric of [[Desna]]. Adoptive father of [[Nualia]].
+
+His remains were stolen and burnt as an offering to [[Lamashtu]]...

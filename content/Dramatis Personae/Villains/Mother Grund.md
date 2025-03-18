@@ -1,0 +1,1 @@
+Storm [[Hag]] that allied with the captain of the [[Magpie Prince]] and [[Hyrix Snowfeather]]. Now has a vendetta against [[Varossa Lanteri|Captain Lanteri]] and anyone on the [[Magpie Prince|Magpie Princess]].

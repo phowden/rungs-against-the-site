@@ -1,0 +1,1 @@
+Former curse eater of the [[Magpie Prince|Magpie Princess]], attempted a mutiny and was removed from the crew, now has a vendetta against [[Varossa Lanteri|Captain Lanteri]]. Allied with the storm [[Hag]] [[Mother Grund]].

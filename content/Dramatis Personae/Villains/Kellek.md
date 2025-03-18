@@ -1,0 +1,5 @@
+- Plane traveling sorcerer, reached the pinnacle of his power, sought possesion of a "Staff of Power"
+- Doesn't take prisoners
+- Puts together casts of characters that always end up falling apart
+- Greedy, narcissist, sociapath
+- The leader of the [[League of Malevolence]]

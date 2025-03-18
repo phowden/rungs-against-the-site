@@ -1,0 +1,1 @@
+[[Sczarni]] leader of a faction of underhanded [[Pathfinder Society]] members.

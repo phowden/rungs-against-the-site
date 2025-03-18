@@ -1,1 +1,1 @@
-[[Azlanti]] hero rumored to have killed the 
+[[Azlanti]] hero rumored to have killed the [[Serpentfolk]] deity [[Ydersius]]

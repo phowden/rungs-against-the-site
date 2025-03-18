@@ -1,0 +1,1 @@
+Frozen land at the top of [[Golarion]]. Enables travel to [[Tian Xia]].

@@ -1,0 +1,1 @@
+Resident of [[Black Cove]], constable

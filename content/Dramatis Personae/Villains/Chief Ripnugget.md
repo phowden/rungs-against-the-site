@@ -1,0 +1,1 @@
+[[Goblin]] chief of the [[Thistletop Tribe|Thistletop Goblins]]. Betrayed the [[Rungs Against the Seven]] in an attempted parlay and was summarily killed.

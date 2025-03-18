@@ -1,0 +1,1 @@
+Druid priestess from [[Black Cove]]. Sent the [[Rungs Against the Seven|RATS]] on their path towards [[Nal Kashel]] in order to stop an errant sorcer [[Gerlach]] from turning them all into [[Ulat-kini]].
