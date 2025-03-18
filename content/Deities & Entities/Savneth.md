@@ -1,0 +1,1 @@
+[[Azlanti]] hero rumored to have killed the 

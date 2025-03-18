@@ -33,7 +33,13 @@ Stage 2: Skin develops coating of slimy mucous
 	(+2 on Escape Artists Check and CMD to resist grapple)
 Stage 3: Skin must be kept wet, or it cracks painfully
 	(-2 penaly to Cha, must submerge yourself in water at least once per day, if skin dries out you are staggered until immersed in water
+
+Uses the *[Saltspray Ring](https://www.d20pfsrd.com/magic-items/rings/saltspray-ring/)* to prevent his skin from cracking. As a result of the constant dampness, he only wears the leather components of his wardrobe...
+- Leather pants
+- No shirt
+- Leather duster
 ## [[Empyreal Lord|Empyreal]] Powers
+Gained [[Empyreal Lord|Empyreal]] powers after defeating [[Bavlorna Blightstraw]], then further unlocked powers after defeating the [[Crimson Chorus]]
 > [!quote]
 > You feel a surge of power flowing through you as [[Shyka, the Many|Shyka]] extends their benevolent consciousness to you.  
 > 

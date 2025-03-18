@@ -1,3 +1,8 @@
+---
+aliases:
+  - Skjar
+---
+
 Member of the [[Rungs Against the Seven]]
 
 Exiled from the [[Lands of the Linnorm Kings]] for causing the death of a band member with his hubris.

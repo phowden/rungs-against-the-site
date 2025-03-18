@@ -1,1 +1,1 @@
-A ruined lighthouse located in [[The Shackles]], originating from the [[Cyclops]] empire of [[Ghol-Gan]].
+A ruined lighthouse located in [[Shackles]], originating from the [[Cyclops]] empire of [[Ghol-Gan]].

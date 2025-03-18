@@ -9,7 +9,7 @@ Further inspection of the architecture leads me to believe that this was built a
 
 Tomorrow we start digging up the entrance to the rooms below. [[Nualia]] is certain they are there.
 ## 28 Calistril
-They're still digging. I'm bored. I found out all I could about those cultists, who seem to have met an untimely end, judging by the skeletons. Spent a pleasant morning with [[Tsuto]] while [[Nualia]] was supervising the dig operations. He's quite a handsome fellow, shame he only has eyes for the asimaar. And I think [[Orik]] is oggling me, ugh! Will amuse myself in the afternoon by sketching the island.
+They're still digging. I'm bored. I found out all I could about those cultists, who seem to have met an untimely end, judging by the skeletons. Spent a pleasant morning with [[Tsuto Kaijitsu|Tsuto]] while [[Nualia]] was supervising the dig operations. He's quite a handsome fellow, shame he only has eyes for the asimaar. And I think [[Orik]] is oggling me, ugh! Will amuse myself in the afternoon by sketching the island.
 
 ## 6 Pharast
 Ugh, what a mess. [[Jagen]] is dead. [[Nualia]] burned his remains as sacrifice to [[Lamashtu]] - whatever was left after the trap had its way with him. We'll have to be very careful from now on. The good news is that the lowest level is now accessible. The bad news is that the entrance doors were smashed by the stupid cultists, so there isn't much left to study there. 
@@ -29,7 +29,7 @@ The seven-pointed star is a common symbol in the complex. Which is very curious,
 Well, this Is my business - this research is why you hired me. Stupid cow.
 We're starting to have more frequent planning sessions now. The date of the raid has been set.
 ## 23 of Rova - the autumn equinox
-[[Tsuto]] says he has a plan to get the [[Goblin|Goblins]] into town without them being detected. Apparently he grew up in this backwater and knows it quite well. He was entirely too smug about something and kept dropping hints about his connections. He's so hot when he plots mayhem!
+[[Tsuto Kaijitsu|Tsuto]] says he has a plan to get the [[Goblin|Goblins]] into town without them being detected. Apparently he grew up in this backwater and knows it quite well. He was entirely too smug about something and kept dropping hints about his connections. He's so hot when he plots mayhem!
 ## 9 Sarenith
 These inscriptions are fascinating! I have been cross-referencing them with findings from other sites and they hint at extraordinary things. Hah, I'd like to see the faces of the [[Pathfinder Society]] when I publish my research! I bet they will be sorry that they rejected my application. Stuck up idiots. So what if I killed my rivals?
 
@@ -41,14 +41,14 @@ I mean, I COULD be wrong, but this seems to hint that they had, or were close to
 ## 26 Arodus
 Less than a month until [[Nualia]] sets her plans in motion. I don't much care about whatever grudge she has for the town, but she promised that she'll let me study the ruins under [[Sandpoint]]. Apparently there is another [[Thassilon|Thassilonian]] site, right under the peasants' nose!
 
-[[Tsuto]] has been spending more and more time away from [[Thistletop]] and doing gods know what in town. The others are either dull or irritating. The [[Goblin|Goblins]] are increasingly on edge.
+[[Tsuto Kaijitsu|Tsuto]] has been spending more and more time away from [[Thistletop]] and doing gods know what in town. The others are either dull or irritating. The [[Goblin|Goblins]] are increasingly on edge.
 
 I would be bored to death without my research.
 ## 24 Rova
 Well, they did it! The [[Goblin|Goblins]] brought back that priest's remains, [[Nualia]]'s adoptive father. She burned them in the chapel as a sacrifice. Then [[Lamashtu]] "rewarded" her by transforming her left arm into a hideous fiend claw.
 
-I really do not understand this woman. I would KILL to look like her, especially considering how much [[Tsuto]] is drooling after her, but she thinks her angelic blood is a curse to be rid of. So stupid.
+I really do not understand this woman. I would KILL to look like her, especially considering how much [[Tsuto Kaijitsu|Tsuto]] is drooling after her, but she thinks her angelic blood is a curse to be rid of. So stupid.
 ## 27 Rova
-[[Tsuto]] hasn't returned yet. I am starting to get worried. He should have been back by now, to plan the next step. I hope he's not hurt. Or worse. I really don't want to think about it.
+[[Tsuto Kaijitsu|Tsuto]] hasn't returned yet. I am starting to get worried. He should have been back by now, to plan the next step. I hope he's not hurt. Or worse. I really don't want to think about it.
 # Original Images
 ![[lyrie journal 1.png]]![[lyrie journal 2.png]]![[lyrie journal 3.png]]![[lyrie journal 4.png]]

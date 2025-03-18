@@ -2,6 +2,8 @@
 aliases:
   - Sin
   - Virtue
+  - Sins
+  - Virtues
 ---
 
 |[Virtue](https://en.wikipedia.org/wiki/Virtue "Virtue")|[Latin](https://en.wikipedia.org/wiki/Latin "Latin")|[Sin](https://en.wikipedia.org/wiki/Sin "Sin")|Latin|

@@ -1,0 +1,1 @@
+[[Cyclops]] prophet, author of [[Chalmymokos' Conundrum]]

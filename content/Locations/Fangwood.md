@@ -1,0 +1,7 @@
+- Ancient forest in [[Nirmathas]]
+- Known for hostile wildlife
+- One of the oldest forest on [[Golarion]]
+- Countless connections to the [[First World]]
+- Home to the "Ecrasial Court" ruled by the Fey queen Yandian
+	- Tightly aligned with [[Nirmathas]] rangers and the [[Druid|Druids]] of crystalhearst
+	- 

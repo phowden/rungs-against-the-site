@@ -24,7 +24,7 @@ One of three prophecies found in the hut of [[Bavlorna Blightstraw]], in [[Hithe
 # Summary
 Written by a [[Cyclops]] named [[Chalmymokos]], it outlines what the [[Rungs Against the Seven]] will have to do to survive. [[Chalmymokos]] wrote this knowing they would find this only after he died.
 
-The first event references the [[Rum Punch Festival]], held in [[The Shackles]] on the island of [[Lilywhite]].
+The first event references the [[Rum Punch Festival]], held in [[Shackles]] on the island of [[Lilywhite]].
 
 > [!note]
 > There is a gap in understanding in the reference to the "feathered collector" that most likely requires more context only available on [[Lilywhite]].
@@ -53,17 +53,22 @@ At this ruined lighthouse there will be a door that requires music to open, but 
 - ALIVE, KEY, ETC
 	- That's us
 - INNOCENCE, EMPIRE OF OLD, DRUNK FESTIVAL
-	- [[Lilywhite|Innocence]] == town in [[The Shackles]]
+	- [[Lilywhite|Innocence]] == town in [[Shackles]]
 	- Drunken Festival == [[Rum Punch Festival]]
 		- People in [[Halgrim]] were talking about it
 		- Commemorates the massive escape of slaves from a [[Cheliax]] slaveship
 	- Empire of Old == [[Ghol-Gan]], [[Cyclops]] empire
 	- [[Mina]] making connection to [[Red Bishop]] also
 - FEATHERED COLLECTOR
-	- Clue in lillywhite?
+	- Clue in [[Lilywhite]]?
+	- Magpie??
+		- Maybe not?
+		- The [[Magpie Prince]]?
+	- Reference to a [[Psychopomp]]?
+		- Nosois?
 - SEA BANSHEES SEAT
 	- [[Besmara]]: Pirate Queen, Goddess of Pirates, Goddess of the Sea
-	- Island in [[The Shackles]]: [[Besmara's Throne]]
+	- Island in [[Shackles]]: [[Besmara's Throne]]
 - SISTERS REST
 	- No clues yet
 - HOUSE OF LOST KEY, LEAF BLESSED

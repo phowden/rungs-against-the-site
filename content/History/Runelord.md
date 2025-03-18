@@ -3,7 +3,7 @@ aliases: Runelords
 ---
 Ancient magic users from ancient [[Thassilon]]. They ruled [[Thassilon]] for hundreds of years before succumbing to the devastating effects of [[Earthfall]].
 
-Each [[Runelord]] was master over a school of [[Sin Magic]], embodying the associated sin
+Each [[Runelord]] was master over a school of [[Sin Magic]], embodying the associated [[Sins and Virtues|Sin]].
 
 [[Runelord|Runelords]] were master fleshcrafters
 

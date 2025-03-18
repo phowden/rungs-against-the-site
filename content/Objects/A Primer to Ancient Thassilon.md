@@ -36,7 +36,7 @@ Seven Virtues eventually became corrupted and 
 
 transformed to what is now known as the Seven Vices 
 
-of Thassilon: greed, lust, pride, gluttony, envy, wrath, 
+of Thassilon: [[Greed]], lust, pride, gluttony, envy, [[Wrath]], 
 
 and sloth. Those seven aspects are symbolized by a 
 

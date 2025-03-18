@@ -1,1 +1,1 @@
-Location (most likely island) in [[The Shackles]] named after the pirate goddess [[Besmara]]
+Location (most likely island) in [[Shackles]] named after the pirate goddess [[Besmara]]

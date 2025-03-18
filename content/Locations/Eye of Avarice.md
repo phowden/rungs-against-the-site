@@ -1,4 +1,4 @@
-Seat of power of the [[Runelord]] of Greed, [[Karzoug]]
+Seat of power of the [[Runelord]] of [[Greed]], [[Karzoug]]
 # Keys to the [[Eye of Avarice]]
 - The [[Rungs Against the Seven]] have been collecting pieces to a set of 3 keys (unknowingly at first)
 - The letter from [[Skabatha Nightshade]] to [[Bavlorna Blightstraw]] revealed that the keys are to the [[Eye of Avarice]]
