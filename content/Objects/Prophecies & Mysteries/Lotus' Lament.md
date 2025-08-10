@@ -17,7 +17,7 @@ One of three prophecies found in the hut of [[Bavlorna Blightstraw]], in [[Hithe
 > Unravel the first domain of those which are bound.
 > 
 > Returns land forlorn to the Maker’s vale
-> Crushing Melaenis’ followers without fail
+> Crushing [[Melaenis]]’ followers without fail
 > 
 > To another eye, the tower ascends.
 > Wyrms at the bottom, wyrms at the end
@@ -146,7 +146,7 @@ Somewhere in [[Iblydos]] ([[Aelyosos]]?) the "heir" will gain the "Aspect TriFol
 		- Forlorn? [[Forfar]]?
 		- Forlorn elves?
 	- Maker's vale
-	- Melaenis' followers
+	- [[Melaenis]]' followers
 	- Tower
 	- Wyrms
 		- [[W_rm|Worm]]? [[W_rm|Wyrm]]? [[W_rm]]?

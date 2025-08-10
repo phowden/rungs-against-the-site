@@ -19,7 +19,7 @@ The [[Vision Quest]] that the [[Rungs Against the Seven]] went on in the meditat
 - [[Empyreal Lord]]
 	- None!!
 	- [[Shyka, the Many]], an [[Eldest]] fey
-- Three fundamental rules of the multiverse
+- Three fundamental rules of the [[multiverse]]
 	- [[Rule of Three]]
 	- [[Unity of Rings]]
 	- [[Center of All]]
@@ -110,14 +110,14 @@ He draws a dagger, takes a deep breath, looks upward and onward and – draws it
 
 ## [[W_rm]]'s Vision
 
-Start with what is being identified as the universal symbol for the [[Three Fundamental Truths]] of the multiverse
+Start with what is being identified as the universal symbol for the [[Three Fundamental Truths]] of the [[multiverse]]
 
 - The [[Rule of Three]]
 	- Everything occurs in threes
 - [[Unity of Rings]]
 	- Things are circular, happen in rings, connect back to themselves
 - [[Center of All]]
-	- states that there is a center of everything — or, rather, wherever a person happens to be is the center of the multiverse 
+	- states that there is a center of everything — or, rather, wherever a person happens to be is the center of the [[multiverse]] 
 
 ![Image](https://lh7-us.googleusercontent.com/jp_017mnVBAjSXgOxbFhwUkY1auKsGfpxSqN_cwbYPRrdpzrD7OH2TKwL7ZLuYZhCa_VKpzwF--C9zDe5w0aXvki5O1F-J0P5rQHmekSnKtg5IaW6UcgFz4uqxO_jTz42DbcFIl1UGXm-2iar1otng)
 

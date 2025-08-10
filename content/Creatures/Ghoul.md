@@ -16,8 +16,8 @@ Lots of types of [[Ghoul|ghouls]]
 	- All inflict [[Ghoul]] fever
 
 Strengths / Weaknesses
-- Weak to [[Positive Energy]], absorb [[Negative Energy]]
-	- But more resistant to [[Positive Energy]] than others
+- Weak to Positive Energy, absorb Negative Energy
+	- But more resistant to Positive Energy than others
 - Cause disease that turns into a [[Ghoul]]
 	- Incubation period is one day, show no symptoms
 	- Then every day you struggle to survive, the stronger you are the longer you last

@@ -2,7 +2,20 @@
 aliases:
   - Magpie Princess
 ---
+Ship hunting the treasure of [[Gemma Redclaw]]. The [[Rungs Against the Seven|RATS]] were lead to join the crew as was foretold in the prophecy [[Chalmymokos' Conundrum]].
 
+# Current Crew
+Captained by [[Varossa Lanteri]]
+- [[Anatoly]], rigger
+- [[Belina]], navigator
+- [[Cobb]], cook
+- [[Doc Imogene]], surgeon
+- [[Horemheb]], master-at-arms, first mate
+- [[Yulia Antonina]], quartermaster
+- [[Xosrov]], lookout
+- [[Yamtisy]], bosun
+- [[Jaspin "Handsome" Haspin]], captain's stewrd
+# History
 - Well-constructed [[Cheliax|Chelaxian]] warship
 - Keel laid in 4693, completed at Howl of Winter in 4695
 	- Mission to safeguard shipping lanes to the Hespereth Strait (Strait of Aroden)

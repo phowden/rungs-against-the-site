@@ -26,12 +26,16 @@ Written by a [[Cyclops]] named [[Chalmymokos]], it outlines what the [[Rungs Aga
 
 The first event references the [[Rum Punch Festival]], held in [[Shackles]] on the island of [[Lilywhite]].
 
-> [!note]
-> There is a gap in understanding in the reference to the "feathered collector" that most likely requires more context only available on [[Lilywhite]].
+The "feathered collector" refers to the [[Magpie Prince]]. It "changed gender" when it was taken over by [[Varossa Lanteri]] and renamed "The [[Magpie Prince|Magpie Princess]]."
 
 Next it goes on to reference a journey the [[Rungs Against the Seven]] must take. The path begins by passing the island [[Besmara's Throne]]. Then there are two steps that are yet unidentified: "[[Sister's Rest]]" and a temple dedicated to [[Gozreh]] (that was previously dedicated to [[Abadar]]). The journey ends at a ruined lighthouse: [[Ghoral-Rey]].
 
-At this ruined lighthouse there will be a door that requires music to open, but that is all that's known for now. The rest most likely requires more context from [[Ghoral-Rey]].
+At this ruined lighthouse there will be a door that requires music to open, but that is all that's known for now. [[Skar]] played the tune to open the door, avoiding a fight at the entrance.
+
+
+> [!NOTE] Title
+> The "guardian" called out has not yet been identified, despite the [[Rungs Against the Seven|RATS]] clearing out all of [[Ghoral-Rey]] so far...
+
 # Analysis
 ## Group
 - "Chalmymokos" is likely the name of a [[Cyclops]]
@@ -71,6 +75,7 @@ At this ruined lighthouse there will be a door that requires music to open, but 
 	- Island in [[Shackles]]: [[Besmara's Throne]]
 - SISTERS REST
 	- No clues yet
+	- Sister ship of the [[Magpie Prince]]
 - HOUSE OF LOST KEY, LEAF BLESSED
 	- House == noble house, heraldic symbol
 	- [[Gozreh]]'s symbol is a leaf!

@@ -46,8 +46,10 @@ Gained [[Empyreal Lord|Empyreal]] powers after defeating [[Bavlorna Blightstraw]
 > And it is clear to you that this power will distinguish you from mere mortal heroes from hence on. With untainted clarity you understand that you have been infused with the following abilities, to be used as you see fit, never to be taken away from you.  
 ### Hard to kill (Ex) 
 Whenever you're below 0 hit points, **you automatically stabilize** without needing to attempt a Constitution check. If you have an ability that allows you to act while below 0 hit points, you still lose hit points for taking actions, as specified by that ability. Bleed damage still causes you to lose hit points when below 0 hit points. In addition, **you don't die until** your total number of negative hit points is equal to or greater than **double your Constitution score**.  
-### [[Empyreal Lord|Empyreal]] Power (5/day)
+### [[Empyreal Lord|Empyreal]] Power (7/day)
 You can call upon your empyreal power to overcome difficult challenges. **You can expend one use of empyreal power to increase any d20 roll you just made by rolling 1d6 and adding it to the result**. Using this ability is an immediate action taken after the result of the original roll is revealed. This can change the outcome of the roll.  
+
+Can do this `3+(2 x Empyreal Level)` times per day
 ### Hit Point Gain
 Your current and maximum HP increase by 3.  
 ### Wild Arcana (Ex)
@@ -56,7 +58,8 @@ As a standard action, you can **expend one use of Empyreal Power to cast any one
 +2 on attack and damage in Point Blank range  
 ### Empyreal Dispel (Su)
 When using *Dispel Magic* as a targeted dispel, **this spell can end two spells affecting the target** instead of just one. If the targeted dispel successfully dispels at least one spell, you **heal 1d4 points of damage for every spell level** of the dispelled spell. If you dispel two spells, this healing applies only to the highest level spell dispelled. **If you use this spell to counterspell, roll your dispel check twice and take the higher result**.
-
+### Amazing Initiative
+Bonus on initiative checks equal to your [[Empyreal Lord|Empyreal]] tier (+2). In addition, as a free action on your turn, you can expend one use of empyreal power to take an additional standard action during that turn. This additional standard action can’t be used to cast a spell. You can’t gain an extra action in this way more than once per round. 
 # Background 
 From [google docs](https://docs.google.com/document/d/18doT53lFgTQHxU6tM8edvNgxdjh25eC0oGoTifoqdJg/edit)
 ## Les Murphetti, Human Cartomancer
